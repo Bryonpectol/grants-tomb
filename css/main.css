@@ -11,4 +11,16 @@ header {
     background-repeat: no-repeat;
 }
 
+#btns {
+    text-align: center;
+    margin-top: 2vh;
+}
 
+#stem {
+    text-align: center;
+}
+
+.feedback {
+    text-align: center;
+    margin-top: 2vh;
+}
